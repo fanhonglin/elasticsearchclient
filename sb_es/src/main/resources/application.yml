@@ -1,0 +1,8 @@
+#server:
+#  port: 6900
+spring:
+  elasticsearch:
+    rest:
+      uris: http://host:9200
+      username: elastic
+      password: elastic

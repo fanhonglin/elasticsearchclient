@@ -1,0 +1,5 @@
+elasticsearch:
+  rest:
+    hosts: host:9200
+    username: elastic
+    password: elastic
